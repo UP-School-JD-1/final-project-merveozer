@@ -5,6 +5,8 @@
 Eğer müşterinin seçtiği masada kuyruk varsa müşterinin bekleyip beklememe durumuna göre bir işlem yapılır. 
 
 -Müşteri beklemeyi tercih ederse -> Önce diğer masaların kuyruk uzunlukları seçilen masanın kuyruk uzunluğu ile karşılaştırılır. Kuyrukta bekleyen müşterisi daha az olan masa varsa müşteriye bu masa verilir. Ve daha sonraki işlemleri normal şekilde devam eder. 
+
+
 <img width="600" alt="img3" src="https://user-images.githubusercontent.com/74708604/195444176-ccfa38df-607a-4c34-9e59-949ee1f51a0e.PNG">
 [Beklemeyi tercih eden müşteriler...]
 
